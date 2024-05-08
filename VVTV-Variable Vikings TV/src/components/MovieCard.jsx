@@ -1,4 +1,4 @@
-
+//Eric 
 function MovieCard(){
 
 }
